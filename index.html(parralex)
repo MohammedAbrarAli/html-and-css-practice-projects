@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parallex Website</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <section class="pimg1">
+<div class="ptext">
+    <span class="textbg">Parallax Website</span>
+</div>
+</section>
+<section class="section section-light">
+    <h2>Section One</h2>                 
+     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam laborum, est temporibus magnam laudantium molestiae quia numquam totam voluptatem, voluptatum eveniet neque exercitationem ex velit voluptas? In architecto, nihil officiis molestiae eveniet aut nam commodi unde nulla culpa, assumenda obcaecati. Dolore eveniet placeat deleniti cupiditate voluptatum mollitia, iusto eius ab! Totam tempore reprehenderit eius explicabo velit quia sapiente, quidem porro quaerat non, reiciendis officiis possimus aliquid iure placeat! Dolor nihil, blanditiis accusantium nam similique expedita, excepturi obcaecati rerum aspernatur eligendi ad distinctio repellendus reiciendis voluptatem ducimus nobis, voluptate corporis rem optio sint modi. Saepe tenetur earum est ex sit numquam?</p>
+ </section>
+<section class="pimg2">
+    <div class="ptext">
+        <span class="textbg">Explore Nature</span>
+    </div>
+    </section>
+    <section class="section section-dark">
+        <h2>Section Two</h2>                 
+         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam laborum, est temporibus magnam laudantium molestiae quia numquam totam voluptatem, voluptatum eveniet neque exercitationem ex velit voluptas? In architecto, nihil officiis molestiae eveniet aut nam commodi unde nulla culpa, assumenda obcaecati. Dolore eveniet placeat deleniti cupiditate voluptatum mollitia, iusto eius ab! Totam tempore reprehenderit eius explicabo velit quia sapiente, quidem porro quaerat non, reiciendis officiis possimus aliquid iure placeat! Dolor nihil, blanditiis accusantium nam similique expedita, excepturi obcaecati rerum aspernatur eligendi ad distinctio repellendus reiciendis voluptatem ducimus nobis, voluptate corporis rem optio sint modi. Saepe tenetur earum est ex sit numquam?</p>
+     </section>
+     <section class="pimg3">
+        <div class="ptext">
+            <span class="textbg">Looks Deep Into Nature</span>
+        </div>
+        </section>
+        <section class="section section-dark">
+        <h2>Section Three</h2>                 
+         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam laborum, est temporibus magnam laudantium molestiae quia numquam totam voluptatem, voluptatum eveniet neque exercitationem ex velit voluptas? In architecto, nihil officiis molestiae eveniet aut nam commodi unde nulla culpa, assumenda obcaecati. Dolore eveniet placeat deleniti cupiditate voluptatum mollitia, iusto eius ab! Totam tempore reprehenderit eius explicabo velit quia sapiente, quidem porro quaerat non, reiciendis officiis possimus aliquid iure placeat! Dolor nihil, blanditiis accusantium nam similique expedita, excepturi obcaecati rerum aspernatur eligendi ad distinctio repellendus reiciendis voluptatem ducimus nobis, voluptate corporis rem optio sint modi. Saepe tenetur earum est ex sit numquam?</p>
+     </section>
+     <section class="pimg1">
+        <div class="ptext">
+            <span class="textbg">Do Some Coding</span>
+        </div>
+        </section>
+</body>
+</html>
