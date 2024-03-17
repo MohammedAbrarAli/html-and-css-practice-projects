@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developers | landing page</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <section class="section_hero">
+        <div class="text_container">
+            <h2><span class="lg_text"></span>Hi,I am Mohammed Abrar Ali</h2>
+            <h1 class="lg_text"> Front End Developer</h1>
+        </div>
+    </section>
+    <section class="black_box">
+        <h2>Work,I Can Do For <span>You</span></h2>
+    </section>
+    <section class="Work">
+        <div class="grid_item">
+            <div class="card">
+                <div class="image_container">
+                    <img src="web.png" alt="web development">
+                    <div class="card_content">
+                     <h3>Web development</h3>
+                     <p>
+                        Web development involves creating, building, and maintaining websites. It encompasses web design, programming, and database management. Web developers ensure sites look good, run smoothly, and offer easy access points for users. They construct applications that work over the internet, enhancing our day-to-day experiences online
+                     </p>
+                    </div>
+                </div>
+        </div>
+        <div class="grid_item">
+            <div class="card">
+                <div class="image_container">
+                    <img src="uiux.png" alt="web development">
+                    <div class="card_content">
+                     <h3>UI UX Design</h3>
+                     <p>
+                        User Interface (UI) and User Experience (UX) design refer to the process of creating visually appealing, intuitive digital interfaces. UI/UX designers prioritize accessibility, ensuring products are usable by everyone. Their work combines graphic design, user research, and psychology to enhance user satisfaction with websites, mobile apps, and software
+                     </p>
+                    </div>
+                </div>
+        </div>
+    </section>
+    <section class="bottom_section">
+        <div class="contact">
+         <h2>Contact me</h2>
+         <p>You can contact me on my email<p>mohammedabrarali996@gmail.com</p>
+            or on my linkedin-<p>http://linkedin.com/in/mohammed-abrar-ali-a83740252</p>
+         </p>
+        </div>
+        <div class="about">
+            <h2>About me</h2>
+            <p>Hello, I'm Mohammed Abrar Ali. I've been working as a web developer for a few years now. I’m passionate about everything that goes into making websites work well and look beautiful. To me, the web is like a canvas where I find exciting projects to work on.
+            My approach involves seeing the big picture when building something. Collaboration with a team allows us to create something greater than the sum of its parts. Whether it’s coding, designing, or optimizing performance, I thrive on teamwork.
+            In terms of skills and experience, I'm proficient in HTML, CSS, JavaScript, and various frameworks. I’ve worked on projects for diverse clients, always aiming for memorable, engaging, and valuable websites.
+            My career objective is to continuously learn and adapt, staying at the forefront of web development. I want to contribute to innovative solutions that positively impact users’ digital experiences.</p>
+        </div>
+    </section>
+    <footer>
+        Project by Mohammed Abrar Ali
+    </footer>
+</body>
+</html>
